@@ -53,6 +53,9 @@ correctness, clean API design, and reliability. **CKA certified.**
 - 📊 **[algo-visualizer](https://github.com/AjaxAueleke/algo-visualizer)** — real-time **sorting-algorithm
   visualizer** in Python + pygame: watch bubble, insertion, merge, heap, quick, counting & radix sort
   run step-by-step.
+- 🩺 **[mgfrontend](https://github.com/AjaxAueleke/mgfrontend)** — patient storefront for a dermatology
+  appointment platform in **Next.js + TypeScript**: doctor search, appointment booking, and **Stripe**
+  payments (Redux Toolkit · Chakra UI).
 
 ---
 
