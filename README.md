@@ -16,8 +16,7 @@ correctness, clean API design, and reliability. **CKA certified.**
 
   Built multi-provider storage integration (S3-compatible + GCP) with GDPR-aware routing for a
   distributed SaaS platform; shipped a safe migration-abort flow on Redis Pub/Sub + Go concurrency
-  (~30% fewer customer escalations); replaced a third-party feature-flag service with a lightweight
-  internal alternative in an air-gapped Kubernetes environment.
+  (~30% fewer customer escalations).
 
 **Freelance Software Engineer** — Remote · Dec 2022 – Jul 2024
 - Top Rated Plus on Upwork (top 10%). Full-stack, ML, and computer-vision projects for US clients —
