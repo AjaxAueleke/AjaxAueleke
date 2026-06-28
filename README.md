@@ -4,7 +4,7 @@
 services in **Go, Python, and TypeScript** across SaaS and cloud-native systems on AWS. I care about
 correctness, clean API design, and reliability. **CKA certified.**
 
-🌐 [Portfolio](https://low-cows.surge.sh) · 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-ahmed-jamil) · 📫 ahmed.jamil7410@gmail.com
+🌐 [Portfolio](https://ajaxaueleke.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-ahmed-jamil) · 📫 ahmed.jamil7410@gmail.com
 
 ---
 
